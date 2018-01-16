@@ -1,2 +1,3 @@
 # Key-Sequence-Detection
-Created using Key Sequence Detection (JavaScript30) 
+
+- A Javascript program that displays a secret message and image when you enter the correct key sequence.
